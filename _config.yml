@@ -187,7 +187,7 @@ links_layout: block
 # Sidebar Avatar
 # in theme directory(source/images): /images/avatar.gif
 # in site  directory(source/uploads): /uploads/avatar.gif
-avatar: /uploads/avatar.png
+avatar: /images/avatar.png
 
 # Table Of Contents in the Sidebar
 toc:
@@ -227,7 +227,7 @@ sidebar:
   b2t: false
 
   # Scroll percent label in b2t button.
-  scrollpercent: false
+  scrollpercent: true
 
   # Enable sidebar on narrow view (only for Muse | Mist).
   onmobile: false
@@ -266,7 +266,7 @@ post_meta:
 symbols_count_time:
   separated_meta: true
   item_text_post: true
-  item_text_total: false
+  item_text_total: true
   awl: 5
   wpm: 200
 
@@ -278,8 +278,8 @@ symbols_count_time:
 
 # Reward
 #reward_comment: Donate comment here
-#wechatpay: /images/wechatpay.jpg
-#alipay: /images/alipay.jpg
+# wechatpay: /images/wechat.png
+# alipay: /images/alipay.png
 #bitcoin: /images/bitcoin.png
 
 # Declare license on posts
